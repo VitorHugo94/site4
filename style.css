@@ -1,0 +1,40 @@
+body{
+
+	background-image: url("images4.jpeg");
+	background-color: #080707;
+	background-repeat: no-repeat;
+	background-size: 1300px 400px;
+	overflow: visible;
+
+}
+*{
+	color: rgb(230, 224, 231);
+}
+h1{
+	font-size: 100px;
+	}
+h2{
+	font-size: 70px;
+	}
+.button{
+	background-color: blueviolet;
+	
+}	
+div.panel{
+	background-color: indigo;
+	background-image: linear-gradient(indigo, black,gray);
+	padding: 15px 15px;
+	border-radius: 1pc;
+	
+
+}	
+div.panel2{
+	background-color: indigo;
+	background-image: linear-gradient(gray, black,indigo);
+	padding: 15px 15px;
+	border-radius: 1pc;
+}	
+div.box{
+	background-image: url("php1.jpg");
+align-items: flex-end;
+}
